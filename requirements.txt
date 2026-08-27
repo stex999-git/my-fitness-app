@@ -2,7 +2,7 @@ streamlit
 pandas
 pillow
 requests
-zxingcpp
+zxing-cpp
 opencv-python-headless
 numpy
 google-genai
